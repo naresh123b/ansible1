@@ -1,0 +1,1 @@
+checking add option to create alias name for remote repository, usually we mention it as "origin"
