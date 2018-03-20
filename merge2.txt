@@ -1,3 +1,4 @@
 check-merge
 modifying this file
 modifying this file again
+modifying this file again2
